@@ -1,0 +1,8 @@
+Nordic theme: https://www.pling.com/p/1267246
+
+Before enabling this theme
+1. Install the extension manager from flatpak
+2. Enable user themes
+3. Go to gnome themes to set this up where ever possible
+4. Done
+5. Thick title bar gone.
