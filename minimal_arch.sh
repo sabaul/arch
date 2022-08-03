@@ -50,3 +50,4 @@ python3 -m pip install --upgrade pip
 pip install ipykernel
 python3 -m ipykernel install --user --name=nnfs
 pip install jupyterlab
+cd ../
