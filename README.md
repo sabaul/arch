@@ -4,5 +4,6 @@
 * setup auto-cpufreq
 * and a python environment that saves some work after distro hopping
 
+
 ToDo:
 1. Check if the bash script works or not.
