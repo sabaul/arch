@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo pacman -S gnome-shell alacritty gnome-tweaks gnome-control-center xdg-user-dirs gdm gnome-keyring networkmanager bluez bluez-utils ntfs-3g openssh pcmanfm git ttf-jetbrains-mono gpicview mpv openssh
+sudo pacman -S gnome-shell alacritty gnome-tweaks gnome-control-center xdg-user-dirs gdm gnome-keyring networkmanager bluez bluez-utils ntfs-3g openssh pcmanfm-gtk3 git ttf-jetbrains-mono gpicview mpv openssh
 
 # Enable display manager
 sudo systemctl enable gdm.service
