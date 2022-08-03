@@ -1,0 +1,6 @@
+  498  git init
+  499  git add .
+  500  git commit -m "first commit"
+  501  git branch -M main
+  502  git remote add origin git@github.com:sabaul/leetcode_python.git
+  503  git push -u origin main
