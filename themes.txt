@@ -6,3 +6,18 @@ Before enabling this theme
 3. Go to gnome themes to set this up where ever possible
 4. Done
 5. Thick title bar gone.
+
+
+
+# But the alacritty title bar will be white colour
+this is due to wayland something
+read about it here --> https://github.com/alacritty/alacritty/issues/3335
+
+To mitigate this issue, use xorg
+1. open this file
+/etc/gdm/custom.conf
+
+2. and uncomment the line
+WaylandEnable=false
+
+This will solve the issue.
