@@ -1,0 +1,6 @@
+Chris titus blog: https://christitus.com/linux-security-mistakes/
+
+* So far only done till network level
+1. Install ufw
+ - sudo pacman -S ufw
+2. Enable the rules mentioned in the chris's website.
